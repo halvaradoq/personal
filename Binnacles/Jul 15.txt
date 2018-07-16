@@ -1,0 +1,7 @@
+  /*-------------------------------------*/
+ /*		Bitácora Julio 15 	*/					
+/*-------------------------------------*/
+Autor: Hernando
+
+- Construcción de los nuevos sketch que incluyen al comerciante
+- Construcción de la estructura en GitHub
