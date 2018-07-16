@@ -1,7 +1,8 @@
   /*-------------------------------------*/
  /*		Bitácora Julio 15 	*/					
 /*-------------------------------------*/
-Autor: Hernando
+Autor: Hernando Alvarado Quintero
 
 - Construcción de los nuevos sketch que incluyen al comerciante
 - Construcción de la estructura en GitHub
+- Subir archivos a GitHub
